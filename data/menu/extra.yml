@@ -1,5 +1,9 @@
 ---
 header:
+  # - name: Home
+  #   # icon: gblog_github
+  #   ref: "/home"
+    
   - name: Github Profile
     icon: gblog_github
     ref: "https://github.com/xoxys"

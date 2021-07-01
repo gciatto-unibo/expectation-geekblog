@@ -3,9 +3,9 @@ title: Post with images
 date: 2020-06-22T20:00:00+02:00
 authors:
   - john-doe
-tags:
-  - Documentation
-  - Shortcodes
+# tags:
+#   - Documentation
+#   - Shortcodes
 weight: 20
 resources:
   - name: feature

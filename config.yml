@@ -1,6 +1,6 @@
 ---
-baseURL: https://hugo-geekblog.geekdocs.de/
-title: Geekblog
+baseURL: http://localhost
+title: EXPECTATION
 theme: hugo-geekblog
 pygmentsUseClasses: true
 pygmentsCodeFences: true
@@ -70,12 +70,11 @@ outputs:
 enableRobotsTXT: true
 
 params:
-  subtitle: Subtitle to describe your blog
+  subtitle: Personalized Explainable AI for decentralized agents with heterogeneous knowledge
   description: >
-    hugo-geekblog is a simple Hugo theme for personal blogs. This page is theme documentation
-    and powered by the latest version of hugo-geekblog itself.
-  images:
-    - "favicon/android-chrome-512x512.png"
+    Personalized Explainable Artificial Intelligence for decentralized agents with heterogeneous knowledge
+  
+  logo: sole_expectation_logo.svg
 
   geekblogToC: 3
   geekblogAuthor: john-doe
