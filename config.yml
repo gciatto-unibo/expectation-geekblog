@@ -77,7 +77,7 @@ params:
   logo: sole_expectation_logo.svg
 
   geekblogToC: 3
-  geekblogAuthor: john-doe
+  geekblogAuthor: gc
 
   geekblogLegalNotice: https://thegeeklab.de/legal-notice/#contact-information
   geekblogPrivacyPolicy: https://thegeeklab.de/legal-notice/#privacy-policy

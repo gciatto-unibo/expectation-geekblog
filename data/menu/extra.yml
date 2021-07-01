@@ -1,13 +1,21 @@
 ---
 header:
-  # - name: Home
-  #   # icon: gblog_github
-  #   ref: "/home"
+  - name: The Project
+    # icon: gblog_github
+    ref: "/posts/home"
+
+  - name: The Consortium
+    # icon: gblog_github
+    ref: "/posts/consortium"
+
+  - name: People
+    # icon: gblog_github
+    ref: "/posts/people"
     
-  - name: Github Profile
-    icon: gblog_github
-    ref: "https://github.com/xoxys"
-    external: true
+  # - name: Github Profile
+  #   icon: gblog_github
+  #   ref: "https://github.com/xoxys"
+  #   external: true
 
 footer:
   - name: Contact
