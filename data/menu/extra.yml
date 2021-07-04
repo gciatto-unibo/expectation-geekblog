@@ -1,6 +1,6 @@
 ---
 header:
-  - name: The Project
+  - name: Home
     # icon: gblog_github
     ref: "/posts/home"
 
@@ -8,9 +8,17 @@ header:
     # icon: gblog_github
     ref: "/posts/consortium"
 
+  - name: Promo
+    # icon: gblog_github
+    ref: "/posts/promo"
+
   - name: People
     # icon: gblog_github
     ref: "/posts/people"
+
+  - name: Publications
+    # icon: gblog_github
+    ref: "/posts/publications"
     
   # - name: Github Profile
   #   icon: gblog_github

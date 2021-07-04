@@ -4,20 +4,64 @@ date: 2021-07-01T00:00:00+01:00
 authors:
   - gc
 tags:
-  - Home
-weight: 5
+  - Wellcome
+weight: 20
 ---
 
-<div align="justify">
-    Explainable AI (XAI) has recently emerged proposing a set of techniques attempting to explain machine learning (ML) models. 
-    The recipients (explainee) are intended to be humans or other intelligent virtual entities. Transparency, trust, and debuging are the underlying features calling for XAI. 
-    However, in real-world settings, systems are distributed, data are heterogeneous, the "system" knowledge is bounded, and privacy concerns are subject to variable constraints. 
-    Current XAI approaches cannot cope with such requirements. 
-    Therefore, there is a need for personalized explainable artificial intelligence. We plan to develop models and mechanisms to reconcile sub-symbolic, symbolic, and semantic representations leveraging on the agent-based paradigm. 
-    In particular, the proposed approach combines inter-agent, intra-agent, and human-agent interactions to benefit from both the specialization of ML agents and the establishment of agent collaboration mechanisms, which will integrate heterogeneous knowledge/explanations extracted from efficient black-box AI agents. 
-    The project includes the validation of the personalization and heterogeneous knowledge integration approach through a prototype application in the domain of food and nutrition monitoring and recommendation, including the evaluation of agent-human explainability, and the performance of the employed techniques in a collaborative AI environment.
-</div>
+{{< columns >}}
 
-## Funded by CHIST-ERA
+{{<centered>}}
 
-{{< figure src="/chistera_logo.png" >}}
+![HES-SO Logo](/hesso_logo.png)
+
+<b>HES-SO</b>
+
+University of Applied Sciences and Arts Western Switzerland
+
+{{< button href="https://www.hevs.ch/en/minisites/projects-products/aislab/" >}}Find out more!{{< /button >}}
+
+{{</centered>}}
+
+<--->
+
+{{<centered>}}
+
+![HES-SO Logo](/unibo_logo.png)
+
+<b>UNIBO</b>
+
+Alma Mater Studiorum Università di Bologna
+
+{{< button href="http://expectation.apice.unibo.it/" >}}Find out more!{{< /button >}}
+
+{{</centered>}}
+
+<--->
+
+{{<centered>}}
+
+![HES-SO Logo](/unilu_logo.png)
+
+<b>UNILU</b>
+
+University of Luxembourg
+
+{{< button href="https://wwwen.uni.lu/" >}}Find out more!{{< /button >}}
+
+{{</centered>}}
+
+<--->
+
+{{<centered>}}
+
+![HES-SO Logo](/ozu_logo.png)
+
+<b>OZU</b>
+
+Özyeğin University
+
+{{< button href="https://www.ozyegin.edu.tr/en" >}}Find out more!{{< /button >}}
+
+{{</centered>}}
+
+{{< /columns >}}
