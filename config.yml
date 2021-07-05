@@ -75,6 +75,7 @@ params:
     Personalized Explainable Artificial Intelligence for decentralized agents with heterogeneous knowledge
   
   logo: sole_expectation_logo.svg
+  # logo: full_expectation_logo.svg
 
   geekblogToC: 3
   geekblogAuthor: gc

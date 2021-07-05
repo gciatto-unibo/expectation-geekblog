@@ -1,18 +1,16 @@
 ---
-title: The Project
+title: Project Abstract
 date: 2021-07-01T00:00:00+01:00
 authors:
   - gc
 tags:
-  - Wellcome
+  - Welcome
 weight: 10
 ---
 
-![Expectation Logo](/full_expectation_logo.svg)
+<!-- ![Expectation Logo](/full_expectation_logo.svg) -->
 
-</br>
-
-## Abstract
+<!-- </br> -->
 
 {{< justified >}}
 Explainable AI (XAI) has recently emerged proposing a set of techniques attempting to explain machine learning (ML) models. 

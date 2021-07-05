@@ -8,7 +8,7 @@ tags:
 weight: 20
 ---
 
-{{< columns >}}
+{{<columns>}}
 
 {{<centered>}}
 
@@ -32,6 +32,8 @@ University of Applied Sciences and Arts Western Switzerland
 
 Alma Mater Studiorum Università di Bologna
 
+</br>
+
 {{< button href="http://expectation.apice.unibo.it/" >}}Find out more!{{< /button >}}
 
 {{</centered>}}
@@ -46,6 +48,9 @@ Alma Mater Studiorum Università di Bologna
 
 University of Luxembourg
 
+</br>
+</br>
+
 {{< button href="https://wwwen.uni.lu/" >}}Find out more!{{< /button >}}
 
 {{</centered>}}
@@ -59,6 +64,9 @@ University of Luxembourg
 <b>OZU</b>
 
 Özyeğin University
+
+</br>
+</br>
 
 {{< button href="https://www.ozyegin.edu.tr/en" >}}Find out more!{{< /button >}}
 

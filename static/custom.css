@@ -17,3 +17,12 @@
 .icon-grid__line--text {
   font-size: 0.8em;
 }
+
+.gblog-nav {
+  position: fixed;
+  width: 100%;
+}
+
+.gblog-header {
+  padding-top: 3.5rem;
+}

@@ -26,7 +26,6 @@ by {{<dc>}}, {{<gc>}}, {{<an>}}, {{<ra>}}, {{<lvdt>}}, {{<ao>}}, and {{<ms>}}
 
 {{<justified>}}
 
-
 Explainable AI (XAI) has emerged in recent years as a set of techniques and methodologies to interpret and explain machine learning (ML) predictors. 
 To date, many initiatives have been proposed. 
 Nevertheless, current research efforts mainly focus on methods tailored to specific ML tasks and algorithms, such as image classification and sentiment analysis. 
