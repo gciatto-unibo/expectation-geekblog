@@ -1,0 +1,8 @@
+<div class="card">
+{{ if  isset .Params "imgsrc" }}
+<img class="card-img-top" 
+{{ with .Get "imgsrc" }} src="{{ . }}"{{ end }} 
+{{ with .Get "imgalt" }} alt="{{ . }}"{{ end }} />
+{{ end }}
+{{ .Inner }}
+</div>

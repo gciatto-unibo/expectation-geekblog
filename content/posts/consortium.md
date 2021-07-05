@@ -24,25 +24,25 @@ University of Applied Sciences and Arts Western Switzerland
 
 <--->
 
-{{<centered>}}
+{{<card imgsrc="/unibo_logo.png" imgalt="UNIBO Logo">}}
 
-![HES-SO Logo](/unibo_logo.png)
-
+{{<cardbody>}}
 <b>UNIBO</b>
 
 Alma Mater Studiorum Università di Bologna
+{{</cardbody>}}
 
-</br>
-
+{{<cardfooter>}}
 {{< button href="http://expectation.apice.unibo.it/" >}}Find out more!{{< /button >}}
+{{</cardfooter>}}
 
-{{</centered>}}
+{{</card>}}
 
 <--->
 
 {{<centered>}}
 
-![HES-SO Logo](/unilu_logo.png)
+![UNILU Logo](/unilu_logo.png)
 
 <b>UNILU</b>
 
@@ -59,7 +59,7 @@ University of Luxembourg
 
 {{<centered>}}
 
-![HES-SO Logo](/ozu_logo.png)
+![OZU Logo](/ozu_logo.png)
 
 <b>OZU</b>
 
