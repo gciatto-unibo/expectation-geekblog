@@ -1,4 +1,4 @@
-{{ $text := .Inner }}
+{{ $text := .Inner | $.Page.RenderString }}
 {{ if isset .Params "align" }}
 {{ with .Get "align" }}
 <div class="card-body" align="{{ . }}">{{ $text }}</div>
