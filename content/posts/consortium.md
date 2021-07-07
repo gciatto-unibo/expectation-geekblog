@@ -10,29 +10,33 @@ weight: 20
 
 {{<columns>}}
 
-{{<centered>}}
+{{<card imgsrc="/hesso_logo.png" imgalt="HES-SO Logo">}}
 
-![HES-SO Logo](/hesso_logo.png)
-
+{{<cardbody align="center">}}
 <b>HES-SO</b>
 
 University of Applied Sciences and Arts Western Switzerland
+{{</cardbody>}}
 
+{{<cardfooter align="center">}}
 {{< button href="https://www.hevs.ch/en/minisites/projects-products/aislab/" >}}Find out more!{{< /button >}}
+{{</cardfooter>}}
 
-{{</centered>}}
+{{</card>}}
 
 <--->
 
 {{<card imgsrc="/unibo_logo.png" imgalt="UNIBO Logo">}}
 
-{{<cardbody>}}
+{{<cardbody align="center">}}
 <b>UNIBO</b>
 
 Alma Mater Studiorum Università di Bologna
+
+</br>
 {{</cardbody>}}
 
-{{<cardfooter>}}
+{{<cardfooter align="center">}}
 {{< button href="http://expectation.apice.unibo.it/" >}}Find out more!{{< /button >}}
 {{</cardfooter>}}
 
@@ -40,36 +44,40 @@ Alma Mater Studiorum Università di Bologna
 
 <--->
 
-{{<centered>}}
+{{<card imgsrc="/unilu_logo.png" imgalt="UNILU Logo">}}
 
-![UNILU Logo](/unilu_logo.png)
-
+{{<cardbody align="center">}}
 <b>UNILU</b>
 
 University of Luxembourg
 
 </br>
 </br>
+{{</cardbody>}}
 
+{{<cardfooter align="center">}}
 {{< button href="https://wwwen.uni.lu/" >}}Find out more!{{< /button >}}
+{{</cardfooter>}}
 
-{{</centered>}}
+{{</card>}}
 
 <--->
 
-{{<centered>}}
+{{<card imgsrc="/ozu_logo.png" imgalt="OZU Logo">}}
 
-![OZU Logo](/ozu_logo.png)
-
+{{<cardbody align="center">}}
 <b>OZU</b>
 
 Özyeğin University
 
 </br>
 </br>
+{{</cardbody>}}
 
+{{<cardfooter align="center">}}
 {{< button href="https://www.ozyegin.edu.tr/en" >}}Find out more!{{< /button >}}
+{{</cardfooter>}}
 
-{{</centered>}}
+{{</card>}}
 
-{{< /columns >}}
+{{</columns>}}

@@ -1,1 +1,8 @@
-<div class="card-body">{{ .Inner }}</div>
+{{ $text := .Inner }}
+{{ if isset .Params "align" }}
+{{ with .Get "align" }}
+<div class="card-body" align="{{ . }}">{{ $text }}</div>
+{{ end }}
+{{ else }}
+<div class="card-body">{{ $text }}</div>
+{{ end }}
