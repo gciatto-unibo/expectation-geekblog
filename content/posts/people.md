@@ -10,7 +10,7 @@ weight: 40
 
 The team has multidisciplinary competences sharing the Multi-Agent Systems as common thread.
 
-### HES-SO People
+### HES-SO People (from Switzerland)
 
 {{<columns>}}
 
@@ -66,57 +66,57 @@ PhD Student at HES-SO
 
 {{</columns>}}
 
-### UNIBO People
+### UNIBO People (from Italy)
 
 {{<columns>}}
 
-{{<card imgsrc="/people/ms.jpg" imgalt="Michael I. Schumacher Photo">}}
+{{<card imgsrc="/people/ao.jpg" imgalt="Andrea Omicini Photo">}}
 {{<cardbody align="center">}}
-**_Prof._ Michael I. Schumacher**
+**_Prof._ Andrea Omicini**
 
-Full Professor at HES-SO
+Full Professor at UNIBO
 {{</cardbody>}}
 {{<cardfooter align="center">}}
-{{<button href="https://www.linkedin.com/in/michael-ignaz-schumacher/">}}Personal Homepage{{</button>}}
+{{<button href="https://www.unibo.it/sitoweb/andrea.omicini">}}Personal Homepage{{</button>}}
 {{</cardfooter>}}
 {{</card>}}
 
 <--->
 
-{{<card imgsrc="/people/dc.jpg" imgalt="Davide Calvaresi Photo">}}
+{{<card imgsrc="/people/gc.jpg" imgalt="Giovanni Ciatto Photo">}}
 {{<cardbody align="center">}}
-**_Dr._ Davide Calvaresi**
+**Giovanni Ciatto**
 
-Senior researcher at HES-SO 
+PhD Student at UNIBO
 {{</cardbody>}}
 {{<cardfooter align="center">}}
-{{<button href="http://davidecalvaresi.it">}}Personal Homepage{{</button>}}
+{{<button href="https://about.me/gciatto">}}Personal Homepage{{</button>}}
 {{</cardfooter>}}
 {{</card>}}
 
 <--->
 
-{{<card imgsrc="/people/jpc.jpg" imgalt="Jean-Paul Calbimonte Photo">}}
+{{<card imgsrc="/people/aa.jpg" imgalt="Andrea Agiollo Photo">}}
 {{<cardbody align="center">}}
-**_Dr._ Jean-Paul Calbimonte**
+**Andrea Agiollo**
 
-Senior researcher at HES-SO 
+PhD Student at UNIBO
 {{</cardbody>}}
 {{<cardfooter align="center">}}
-{{<button href="https://jeanpi.org/wp/">}}Personal Homepage{{</button>}}
+{{<button href="https://apice.unibo.it/xwiki/bin/view/AndreaAgiollo/">}}Personal Homepage{{</button>}}
 {{</cardfooter>}}
 {{</card>}}
 
 <--->
 
-{{<card imgsrc="/people/vh.jpg" imgalt="Victor Hugo Contreras Ordonez Photo">}}
+{{<card imgsrc="/people/fs.jpg" imgalt="Federico Sabbatini Photo">}}
 {{<cardbody align="center">}}
-**Victor Hugo Contreras Ordonez**
+**Federico Sabbatini**
 
-PhD Student at HES-SO 
+Research Fellow at HES-SO 
 {{</cardbody>}}
 {{<cardfooter align="center">}}
-{{<button href="https://expectation.ehealth.hevs.ch/people.html">}}Personal Homepage{{</button>}}
+{{<button href="https://apice.unibo.it/xwiki/bin/view/FedericoSabbatini/">}}Personal Homepage{{</button>}}
 {{</cardfooter>}}
 {{</card>}}
 
