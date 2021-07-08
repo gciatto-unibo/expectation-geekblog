@@ -1,5 +1,5 @@
 ---
-baseURL: http://localhost
+baseURL: https://expectation.ehealth.hevs.ch
 title: EXPECTATION
 theme: hugo-geekblog
 pygmentsUseClasses: true

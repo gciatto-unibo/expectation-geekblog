@@ -1,5 +1,5 @@
 ---
-title: A proud Team!
+title: A proud team!
 date: 2021-07-04T00:00:00+01:00
 authors:
   - gc
@@ -60,7 +60,7 @@ Senior researcher at HES-SO
 PhD Student at HES-SO 
 {{</cardbody>}}
 {{<cardfooter align="center">}}
-{{<button href="https://expectation.ehealth.hevs.ch/people.html">}}Personal Homepage{{</button>}}
+{{<button href="#">}}Personal Homepage{{</button>}}
 {{</cardfooter>}}
 {{</card>}}
 
@@ -113,7 +113,7 @@ PhD Student at UNIBO
 {{<cardbody align="center">}}
 **Federico Sabbatini**
 
-Research Fellow at HES-SO 
+Research Fellow at UNIBO 
 {{</cardbody>}}
 {{<cardfooter align="center">}}
 {{<button href="https://apice.unibo.it/xwiki/bin/view/FedericoSabbatini/">}}Personal Homepage{{</button>}}
@@ -122,6 +122,103 @@ Research Fellow at HES-SO
 
 {{</columns>}}
 
-### UNILU People
+### UNILU People (from Luxemburg)
+
+{{<columns>}}
+
+{{<card imgsrc="/people/lvdt.jpg" imgalt="Leon Van der Torre Photo">}}
+{{<cardbody align="center">}}
+**_Prof._ Leon Van der Torre**
+
+Full Professor at UNILU
+{{</cardbody>}}
+{{<cardfooter align="center">}}
+{{<button href="https://icr.uni.lu/leonvandertorre">}}Personal Homepage{{</button>}}
+{{</cardfooter>}}
+{{</card>}}
+
+<--->
+
+{{<card imgsrc="/people/an.jpg" imgalt="Amro Najjar Photo">}}
+{{<cardbody align="center">}}
+**_Dr._ Amro Najjar**
+
+Research associate at UNILU
+{{</cardbody>}}
+{{<cardfooter align="center">}}
+{{<button href="https://wwwen.uni.lu/recherche/fstm/dcs/members/amro_najjar">}}Personal Homepage{{</button>}}
+{{</cardfooter>}}
+{{</card>}}
+
+<--->
+
+{{<card imgsrc="/people/phds.jpg" imgalt="Ph.D. Student Photo">}}
+{{<cardbody align="center">}}
+**Ph.D. Student**
+
+To be hired
+{{</cardbody>}}
+{{<cardfooter align="center">}}
+{{<button href="#">}}Personal Homepage{{</button>}}
+{{</cardfooter>}}
+{{</card>}}
+
+<--->
+
+{{</columns>}}
 
 ### OZU People
+
+{{<columns>}}
+
+{{<card imgsrc="/people/ra.jpg" imgalt="Reyhan Aydoğan Photo">}}
+{{<cardbody align="center">}}
+**_Prof._ Reyhan Aydoğan**
+
+Professor at OZU
+{{</cardbody>}}
+{{<cardfooter align="center">}}
+{{<button href="https://icr.uni.lu/leonvandertorre">}}Personal Homepage{{</button>}}
+{{</cardfooter>}}
+{{</card>}}
+
+<--->
+
+{{<card imgsrc="/people/phds.jpg" imgalt="Ph.D. Student Photo">}}
+{{<cardbody align="center">}}
+**Ph.D. Student**
+
+To be hired
+{{</cardbody>}}
+{{<cardfooter align="center">}}
+{{<button href="#">}}Personal Homepage{{</button>}}
+{{</cardfooter>}}
+{{</card>}}
+
+<--->
+
+{{<card imgsrc="/people/phds.jpg" imgalt="Ph.D. Student Photo">}}
+{{<cardbody align="center">}}
+**Ph.D. Student**
+
+To be hired
+{{</cardbody>}}
+{{<cardfooter align="center">}}
+{{<button href="#">}}Personal Homepage{{</button>}}
+{{</cardfooter>}}
+{{</card>}}
+
+<--->
+
+{{<card imgsrc="/people/phds.jpg" imgalt="Ph.D. Student Photo">}}
+{{<cardbody align="center">}}
+**Ph.D. Student**
+
+To be hired
+{{</cardbody>}}
+{{<cardfooter align="center">}}
+{{<button href="#">}}Personal Homepage{{</button>}}
+{{</cardfooter>}}
+{{</card>}}
+
+{{</columns>}}
