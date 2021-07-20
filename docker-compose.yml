@@ -4,7 +4,7 @@ server:
   image: klakegg/hugo:alpine
   command: server --disableLiveReload --appendPort=false --baseUrl=https://expectation.ehealth.hevs.ch
   volumes:
-    - "./test:/src"
+    - "./:/src"
   networks:
     - prod
   labels:
