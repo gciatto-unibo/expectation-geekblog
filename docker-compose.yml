@@ -1,15 +1,20 @@
-services:
+version: "3.4"
 
-server:
-  image: klakegg/hugo:alpine
-  command: server --disableLiveReload --appendPort=false --baseUrl=https://expectation.ehealth.hevs.ch
-  volumes:
-    - "./:/src"
-  networks:
-    - prod
-  labels:
-    - "traefik.port=1313"
-    - "traefik.backend=hugo-test"
-    - "traefik.docker.network=prod"
-    - "traefik.frontend.rule=Host:expectation.ehealth.hevs.ch"
-    - "traefik.enable=true"
+services:
+  server:
+    image: klakegg/hugo:ext-alpine
+    command: server --disableLiveReload --appendPort=false --baseUrl=https://expectation.ehealth.hevs.ch
+    volumes:
+      - "./:/src"
+    networks:
+      - prod
+    labels:
+      - "traefik.port=1313"
+      - "traefik.backend="backend-expectation"
+      - "traefik.docker.network=prod"
+      - "traefik.frontend.rule=Host:expectation.ehealth.hevs.ch"
+      - "traefik.enable=true"
+
+networks:
+  prod:
+    external: true
