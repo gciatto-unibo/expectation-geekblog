@@ -33,11 +33,23 @@ The proposed work analyses the role of local variability in NN architectures des
 ### Bibtex
 
 ```bibtex
-@InProceedings{aco-extraamas-2021-shallo2deep,
-	author = {Agiollo, Andrea and Ciatto, Giovanni and Omicini, Andrea},
-	booktitle = {3rd International Workshop on EXplainable and TRAnsparent AI and Multi-Agent Systems (EXTRAAMAS 2021)},
-	keywords = {Neural Architecture Search, Evolutionary Algorithm, Opacity, Interpretability},
-	title = {{Shallow2Deep}: Restraining Neural Networks Opacity through Neural Architecture Search},
+@incollection{shallow2deep-extraamas2021,
+	address = {Basel, Switzerland},
+	author = {Agiollo, Ansdrea and Ciatto, Giovanni and Omicini, Andrea},
+	booktitle = {Explainable and Transparent AI and Multi-Agent Systems. Third International Workshop, EXTRAAMAS 2021, Virtual Event, May 3--7, 2021, Revised Selected Papers},
+	doi = {10.1007/978-3-030-82017-6_5},
+	editor = {Calvaresi, Davide and Najjar, Amro and Winikoff, Michael and Fr{\"a}mling, Kary},
+	isbn = {978-3-030-82016-9},
+	isbn-online = {978-3-030-82017-6},
+	issn = {0302-9743},
+	keywords = {Neural Architecture Search; Evolutionary Algorithm; Opacity; Interpretability},
+	pages = {63--82},
+	publisher = {Springer Nature},
+	series = {Lecture Notes in Computer Science},
+	subseries = {Lecture Notes in Artificial Intelligence},
+	title = {{\it Shallow2Deep}: Restraining Neural Networks Opacity through Neural Architecture Search},
+	url = {http://link.springer.com/10.1007/978-3-030-82017-6_5},
+	volume = 12688,
 	year = 2021
 }
 ```

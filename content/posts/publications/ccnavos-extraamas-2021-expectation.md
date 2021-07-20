@@ -43,7 +43,23 @@ To tackle the challenges posed by personalization, decentralization, and heterog
 ### Bibtex
 
 ```bibtex
-@InProceedings{ccnavos-extraamas-2021-expectation,
-  TBD
+@incollection{expectation-extraamas2021,
+	address = {Basel, Switzerland},
+	author = {Calvaresi, Davide and Ciatto, Giovanni and Najjar, Amro and Aydo{\u g}an, Reyhan and Van der Torre, Leon and Omicini, Andrea and Schumacher, Michael},
+	booktitle = {Explainable and Transparent AI and Multi-Agent Systems. Third International Workshop, EXTRAAMAS 2021, Virtual Event, May 3--7, 2021, Revised Selected Papers},
+	doi = {10.1007/978-3-030-82017-6_20},
+	editor = {Calvaresi, Davide and Najjar, Amro and Winikoff, Michael and Fr{\"a}mling, Kary},
+	isbn = {978-3-030-82016-9},
+	isbn-online = {978-3-030-82017-6},
+	issn = {0302-9743},
+	keywords = {Multi-agent systems; eXplanable AI; Chist-Era IV; Personalisation; Decentralisation; Expectation},
+	pages = {331--343},
+	publisher = {Springer Nature},
+	series = {Lecture Notes in Computer Science},
+	subseries = {Lecture Notes in Artificial Intelligence},
+	title = {{{\sc Expectation}}: Personalized Explainable Artificial Intelligence for Decentralized Agents with Heterogeneous Knowledge},
+	url = {http://link.springer.com/10.1007/978-3-030-82017-6_20},
+	volume = 12688,
+	year = 2021
 }
 ```

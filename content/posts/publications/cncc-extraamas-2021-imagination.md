@@ -35,7 +35,22 @@ In particular, we investigated research areas such as: i) reasoning and automati
 ### Bibtex
 
 ```bibtex
-@InProceedings{cncc-extraamas-2021-imagination,
-  TBD
-}
+@incollection{imagination-extraamas2021,
+	address = {Basel, Switzerland},
+	author = {Ciatto, Giovanni and Najjar, Amro and Calbimonte, Jean-Paul and Calvaresi, Davide},
+	booktitle = {Explainable and Transparent AI and Multi-Agent Systems. Third International Workshop, EXTRAAMAS 2021, Virtual Event, May 3--7, 2021, Revised Selected Papers},
+	doi = {10.1007/978-3-030-82017-6_9},
+	editor = {Calvaresi, Davide and Najjar, Amro and Winikoff, Michael and Fr{\"a}mling, Kary},
+	isbn = {978-3-030-82016-9},
+	isbn-online = {978-3-030-82017-6},
+	issn = {0302-9743},
+	keywords = {Multi-agent systems; Imagination; BDI; Cognitive agents; XAI},
+	pages = {139--157},
+	publisher = {Springer Nature},
+	series = {Lecture Notes in Computer Science},
+	subseries = {Lecture Notes in Artificial Intelligence},
+	title = {Towards Explainable Visionary Agents: License to Dare and Imagine},
+	url = {http://link.springer.com/10.1007/978-3-030-82017-6_9},
+	volume = 12688,
+	year = 2021}
 ```

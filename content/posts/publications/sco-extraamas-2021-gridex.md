@@ -33,10 +33,23 @@ Furthermore, to demonstrate the feasibility and effectiveness of GridEx, we repo
 ### Bibtex
 
 ```bibtex
-@InProceedings{sco-extraamas-2021-gridex,
+@incollection{gridex-extraamas2021,
+	address = {Basel, Switzerland},
 	author = {Sabbatini, Federico and Ciatto, Giovanni and Omicini, Andrea},
-	booktitle = {3rd International Workshop on EXplainable and TRAnsparent AI and Multi-Agent Systems (EXTRAAMAS 2021)},
+	booktitle = {Explainable and Transparent AI and Multi-Agent Systems. Third International Workshop, EXTRAAMAS 2021, Virtual Event, May 3--7, 2021, Revised Selected Papers},
+	doi = {10.1007/978-3-030-82017-6_2},
+	editor = {Calvaresi, Davide and Najjar, Amro and Winikoff, Michael and Fr{\"a}mling, Kary},
+	isbn = {978-3-030-82016-9},
+	isbn-online = {978-3-030-82017-6},
+	issn = {0302-9743},
+	issn-online = {1611-3349},
+	pages = {18--38},
+	publisher = {Springer Nature},
+	series = {Lecture Notes in Computer Science},
+	subseries = {Lecture Notes in Artificial Intelligence},
 	title = {{GridEx}: An Algorithm for Knowledge Extraction from Black-Box Regressors},
+	url = {http://link.springer.com/10.1007/978-3-030-82017-6_2},
+	volume = 12688,
 	year = 2021
 }
 ```
